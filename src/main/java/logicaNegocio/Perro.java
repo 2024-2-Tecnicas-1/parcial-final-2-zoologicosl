@@ -16,7 +16,7 @@ return "Ladrido";
 
 @Override
 public String obtenerDieta() {
-return "Omnívoro, proteinas de las carnes ";
+return "Omnívoro";
 }
 
 @Override

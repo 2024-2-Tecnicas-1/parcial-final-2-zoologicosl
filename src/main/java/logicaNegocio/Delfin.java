@@ -13,7 +13,7 @@ this.habitat = TipoHabitat.ACUATICO;
 
 @Override
 public String emitirSonido() {
-return "Chillido";
+return "Chirrido";
 }
 
 @Override
